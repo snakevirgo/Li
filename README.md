@@ -20,7 +20,7 @@ This is my personal portfolio website that I created from scratch. It's interact
 ### Additional Resources Used:
 
 #### Resources:
-- [ColorHexa](https://www.colorhexa.com/)
+- [ColorSpace](https://mycolor.space/gradient)
 - [Flaticon](https://www.flaticon.com/)
 - [Freepik](http://www.freepik.com/)
 - [Freeicons](https://freeicons.io/)
