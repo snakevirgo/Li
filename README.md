@@ -15,7 +15,7 @@ This is my personal portfolio website that I created from scratch. It's interact
 #### Frameworks, Libraries, & Utilizations:
 - [Bootstrap](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/)
-- [Animate On Scroll Library] (https://michalsnik.github.io/aos/)
+- [Animate On Scroll Library](https://michalsnik.github.io/aos/)
 
 ### Additional Resources Used:
 
@@ -23,10 +23,10 @@ This is my personal portfolio website that I created from scratch. It's interact
 - [ColorHexa](https://www.colorhexa.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [Freepik](http://www.freepik.com/)
-- [Freeicons] (https://freeicons.io/)
-- [Iconfinder] (https://www.iconfinder.com/)
+- [Freeicons](https://freeicons.io/)
+- [Iconfinder](https://www.iconfinder.com/)
 - [Mozilla Developer Documentation](https://developer.mozilla.org/en-US/)
-- [W3schools] (https://www.w3schools.com/)
+- [W3schools](https://www.w3schools.com/)
 
 
 #### Accessiblity: 
