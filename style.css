@@ -315,7 +315,6 @@ h5
   
 .btn-light2
 {
-    /* background-color:#bea6ed; */
     background-image: linear-gradient(to right top, #ebafd6, #d9a9e1, #bea6ed, #96a5f6, #57a6fb);
     color: white;
 }
@@ -370,7 +369,8 @@ input
 }
 
 .hidden{
-    display: none;
+
+    visibility: hidden;
 }
 
 .button
